@@ -8,6 +8,7 @@ This project predicts customer churn in the telecom industry using Machine Learn
 - 7043 customer records
 - 21 features
 - Target Variable: Churn (Yes/No)
+Dataset Source: [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## Data Preprocessing
 - Converted TotalCharges to numeric format
